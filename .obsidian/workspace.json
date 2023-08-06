@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "5300176e858eb9f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "59bcfbdd322c552d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7d65e257bd2ec4a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b92d7bbffc881b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "4624125bdf62334e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3929308670ce6b74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "04bb1848dc26150b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "170f96aa101139f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b236683f8b1519d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee942c9d79b71f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4983935bdc72478",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78a099ed269e5267",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fad20b02def6426",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c4c0f20abf57674",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "f7d65e257bd2ec4a",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Software development/Frontend/Frontend.md",
+    "Software development/Backend/Backend.md",
+    "Software development/Backend/API REST.md",
+    "Software development/Frontend",
+    "Software development/Backend",
+    "Software development",
+    "README.md",
+    "Devops/Untitled.md",
+    "Devops/Fundamentals.md",
+    "Devops",
+    "Data engineering/Map reduce,  Hadoop y HDFS.md",
+    "Data engineering/Data warehouse.md",
+    "Data engineering/Data processing.md",
+    "Data engineering/Data pipeling.md",
+    "Data engineering",
+    "Basics/Web sockets.md",
+    "Basics/TCP.md",
+    "Basics/SSH.md",
+    "Basics/SFTP.md",
+    "Basics/HTTP.md",
+    "Basics/FTP.md",
+    "Basics",
+    "Pasted image 20230720180750.png",
+    "Basics/Linux.md",
+    "Basics/Untitled.canvas",
+    "Kanban/Tasks.md",
+    "Basics/Nodejs.md",
+    "Simulate login before scrape.md",
+    "Untitled/Untitled.canvas",
+    "2023-05-31.md",
+    "Kanban",
+    "Untitled 1.canvas"
+  ]
+}
