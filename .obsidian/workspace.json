@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "59bcfbdd322c552d",
+        "id": "57402d8aac52afcc",
         "type": "tabs",
         "children": [
           {
-            "id": "f7d65e257bd2ec4a",
+            "id": "7819d1aea7d5a672",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software development/Testing/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Frontend",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software development/Testing/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software development/Testing/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software development/Testing/Untitled.md"
+              }
             }
           }
         ],
@@ -131,48 +139,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "f7d65e257bd2ec4a",
+  "active": "7819d1aea7d5a672",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Software development/Frontend/Frontend.md",
-    "Software development/Backend/Backend.md",
-    "Software development/Backend/API REST.md",
-    "Software development/Frontend",
-    "Software development/Backend",
-    "Software development",
+    "Enterviews/Tecnica.md",
+    "Software development/Testing/Untitled.md",
     "README.md",
-    "Devops/Untitled.md",
-    "Devops/Fundamentals.md",
-    "Devops",
-    "Data engineering/Map reduce,  Hadoop y HDFS.md",
-    "Data engineering/Data warehouse.md",
-    "Data engineering/Data processing.md",
-    "Data engineering/Data pipeling.md",
-    "Data engineering",
-    "Basics/Web sockets.md",
-    "Basics/TCP.md",
-    "Basics/SSH.md",
-    "Basics/SFTP.md",
-    "Basics/HTTP.md",
-    "Basics/FTP.md",
-    "Basics",
-    "Pasted image 20230720180750.png",
-    "Basics/Linux.md",
+    "Software development/Testing/TDD.md",
+    "Software development/JavaScript/JavaScript.md",
+    "Software development/Backend/API REST.md",
+    "Software development/Backend/Backend.md",
+    "Software development/Arquitectura/Clean architecture.md",
+    "Software development/Arquitectura/Clean architecture.md",
+    "Software development/Arquitectura/assets/Untitled 4.png",
+    "Software development/JavaScript/Conceptos/Window b6a5eaba7f994f298426c705b421ca0e.md",
+    "Software development/JavaScript/Conceptos/Scope b8b22bb6cd094606855c5d42b85a596a.md",
+    "Software development/JavaScript/Conceptos/POO en js 95e741b5c072462ea7ad8173b02d2403.md",
+    "Software development/JavaScript/Conceptos/Node 4963da74e988469182123240bbb5efd4.md",
+    "Software development/JavaScript/Conceptos/Motor de JavaScript a834c7feef3343dc85236b0320f94d12.md",
+    "Software development/JavaScript/Conceptos/Inmutabilidad bdb892237f61464882821c07ca33b6a6.md",
+    "Software development/JavaScript/Conceptos/Hoisting a2ce125ef8154a51bf3fab750be14f36.md",
+    "Software development/JavaScript/Conceptos/Events 77cffe008b594502ab0e70a3b670c64d.md",
+    "Software development/JavaScript/Conceptos/Event Loop y asyncronia 18cc8f5195c545eb9d1140b520ba1751.md",
+    "Software development/JavaScript/Conceptos/Ecmaescript 66b4217f0d9346738d3509d4836bcf7f.md",
+    "Software development/JavaScript/Conceptos/Document Object Model (DOM) 648d1442822548d8901c57995d12ed6a.md",
+    "Software development/JavaScript/Conceptos/Características 253d938c259a4c798fb4036d5f67dcef.md",
+    "Software development/JavaScript/Conceptos/Asincronía 10c2ed4bf40a468d8111c4c711fedfc1.md",
+    "Software development/JavaScript/Conceptos/Arrow VS Functions 9fabf90299e24570ab9f82e04bb1ad97.md",
+    "Software development/Arquitectura/assets/Untitled 2.png",
+    "Software development/Arquitectura/assets/Untitled 1.png",
+    "Software development/Arquitectura/assets/Untitled.png",
+    "Software development/JavaScript/Conceptos",
+    "Software development/JavaScript/Typescript.md",
+    "Software development/JavaScript/Conceptos/Document Object Model (DOM) 648d1442822548d8901c57995d12ed6a/Untitled.png",
+    "Software development/JavaScript/Conceptos/Motor de JavaScript a834c7feef3343dc85236b0320f94d12/Untitled.png",
+    "Software development/JS 1/Next 5dd3d804593a4370a8bcf7001ab3a47a.md",
+    "Software development/Arquitectura/assets/Untitled 3.png",
+    "Software development/Frontend/React/react.md",
+    "Software development/JavaScript",
+    "Enterviews",
+    "Software development/Arquitectura/assets",
+    "Software development/JavaScript/Conceptos/Motor de JavaScript a834c7feef3343dc85236b0320f94d12",
+    "Software development/JavaScript/Conceptos/Document Object Model (DOM) 648d1442822548d8901c57995d12ed6a",
+    "Software development/JavaScript",
+    "Software development/Arquitectura/general c8f18223f54a43fca07a31c9bc824d11",
+    "Software development/general c8f18223f54a43fca07a31c9bc824d11",
+    "Software development/ea/general c8f18223f54a43fca07a31c9bc824d11 1",
+    "Test/deuda tecnica f080775229ab4fd5b5f806a5a5c16afc/Untitled.png",
+    "Test/deuda tecnica f080775229ab4fd5b5f806a5a5c16afc/Untitled 6.png",
+    "Test/deuda tecnica f080775229ab4fd5b5f806a5a5c16afc/Untitled 11.png",
+    "Untitled.canvas",
     "Basics/Untitled.canvas",
-    "Kanban/Tasks.md",
-    "Basics/Nodejs.md",
-    "Simulate login before scrape.md",
     "Untitled/Untitled.canvas",
-    "2023-05-31.md",
-    "Kanban",
     "Untitled 1.canvas"
   ]
 }
